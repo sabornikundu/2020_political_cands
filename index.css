@@ -16,9 +16,6 @@ h1{
   float: right;
   width: 50%;
 }
-.cool{
-  height: 200px;
-}
 html {
   background: url(white.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
