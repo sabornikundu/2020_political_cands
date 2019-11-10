@@ -6,8 +6,10 @@ h1{
 }
 .topics_nav{
   float: left;
+  width: 50%;
 }
 
 .topics2_nav{
   float: right;
+  width: 50%;
 }
