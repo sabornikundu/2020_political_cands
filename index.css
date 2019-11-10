@@ -1,0 +1,25 @@
+p{
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+.topics_nav ul li: first child{
+  float: left;
+  width: 50%;
+}
+
+.topics_nav ul li: third child{
+  float: left;
+  width: 50%;
+}
+
+.topics_nav ul li: second child{
+  float: right;
+  width: 50%;
+}
+
+.topics_nav ul li: fourth child{
+  float: right;
+  width: 50%;
+}
