@@ -3,6 +3,7 @@ p{
 }
 h1{
   text-align: center;
+  font-variant: small-caps;
 }
 .topics_nav{
   float: left;
