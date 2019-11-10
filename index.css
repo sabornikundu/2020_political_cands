@@ -4,22 +4,10 @@ p{
 h1{
   text-align: center;
 }
-.topics_nav ul li: first child{
+.topics_nav{
   float: left;
-  width: 50%;
 }
 
-.topics_nav ul li: third child{
-  float: left;
-  width: 50%;
-}
-
-.topics_nav ul li: second child{
+.topics2_nav{
   float: right;
-  width: 50%;
-}
-
-.topics_nav ul li: fourth child{
-  float: right;
-  width: 50%;
 }
