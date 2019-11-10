@@ -8,13 +8,19 @@ img{
   height: 100px;
 }
 .topics{
-  font-family: Larsseit;
+  font-family: monospace;
   color: white;
-}
-body{
-  background-color: #b30000;
+  text-align: center;
 }
 p{
   font-family: monospace;
   color: white;
+  text-align: center;
+}
+html {
+  background: url(http://eskipaper.com/images/sky-wallpaper-5.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
