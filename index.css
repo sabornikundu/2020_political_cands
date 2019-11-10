@@ -1,9 +1,11 @@
 p{
   text-align: center;
+  font-family: monospace;
 }
 h1{
   text-align: center;
   font-variant: small-caps;
+  font-family: "New Century Schoolbook", TeX Gyre Schola, serif;
 }
 .topics_nav{
   float: left;
@@ -23,8 +25,4 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-}
-p{
-  text-align: center;
-  font-family: comic sans-serif;
 }
