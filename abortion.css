@@ -1,11 +1,12 @@
 .prochoice{
   float: left;
+  color: white;
+  font-family: cursive;
 }
 .prolife{
   float: right;
-}
-li{
   color: white;
+  font-family: cursive;
 }
 body{
   background-color: #b30000;
